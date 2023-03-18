@@ -1,3 +1,7 @@
 File was created directly on local Git
 
 Modify file
+
+Another modification
+
++ modify
